@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+
+    <!--For testing i have used youtube url as a production. Replace https://www.youtube.com with your production url-->
+    <string name="production_url">https://www.youtube.com</string>
+
+    <!--For testing i have used facebook url as a development. Replace https://www.facebook.com with your development url-->
+    <string name="development_url">https://www.facebook.com</string>
+
+</resources>
